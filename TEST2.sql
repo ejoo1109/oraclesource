@@ -1,0 +1,3 @@
+CREATE TABLE USERTBL(
+    ID VARCHAR2(10));
+    
